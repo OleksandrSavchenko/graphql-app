@@ -1,16 +1,10 @@
 {
   "customers": [
     {
-      "id": "1",
-      "name": "John Doe",
-      "email": "johndoe@gmail.com",
-      "age": 35
-    },
-    {
       "id": "2",
-      "name": "John Bash",
-      "email": "johnbash@gmail.com",
-      "age": 12
+      "name": "Boris",
+      "email": "boris@gmail.com",
+      "age": 40
     },
     {
       "id": "3",
@@ -23,6 +17,12 @@
       "name": "Jon Snow",
       "email": "jonsnow@gmail.com",
       "age": 22
+    },
+    {
+      "name": "Harry Potter",
+      "email": "harrypotter@gmail.com",
+      "age": 23,
+      "id": "S17Yw9xwZ"
     }
   ]
 }
