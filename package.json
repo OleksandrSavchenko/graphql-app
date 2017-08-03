@@ -1,0 +1,26 @@
+{
+  "name": "graphql-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OleksandrSavchenko/graphql-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OleksandrSavchenko/graphql-app/issues"
+  },
+  "homepage": "https://github.com/OleksandrSavchenko/graphql-app#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.7",
+    "graphql": "^0.10.5",
+    "nodemon": "^1.11.0"
+  }
+}
